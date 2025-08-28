@@ -37,4 +37,5 @@ PEP8: Код написан с соблюдением рекомендаций P
 
 ✅ Загрузка в БД (PostgreSQL)
 
-<img width="833" height="560" alt="image" src="https://github.com/user-attachments/assets/d4597555-a354-40fd-a42f-ffb57a8899b0" />
+<img width="760" height="533" alt="image" src="https://github.com/user-attachments/assets/e381b99c-e208-438c-b7bf-eabda96e4d80" />
+
